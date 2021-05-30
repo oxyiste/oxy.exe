@@ -1,5 +1,5 @@
 # oxy.exe
-![Logo](https://cdn.discordapp.com/avatars/760162970793410580/a_7ba81e6deda388841ee05c63fa3ad5c0.gif?size=2048) 
+![Logo](https://cdn.discordapp.com/attachments/843580830697259018/848554351566913536/tumblr_phz2ph4Hvn1qkz08qo1_540.gif) 
 <h1 align="center">Selam Guys, ben OxÝ.#0202</h1>
 <h3 align="center">daha çok burayı eğlence arayışı olarak gören ve sadece kendimi geliştirmek için kullanan biriyim.</h3>
 
