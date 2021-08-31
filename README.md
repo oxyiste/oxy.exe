@@ -3,7 +3,7 @@
 <h1 align="center">Selam Guys, ben OxÝ.#0001</h1>
 <h3 align="center">daha çok burayı eğlence arayışı olarak gören ve sadece kendimi geliştirmek için kullanan biriyim.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyiste-js&label=Profile%20views&color=0e75b6&style=flat" alt="oxygithubistatistik" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyiste-js&label=Profile%20views&color=0e75b6&style=flat" alt="oxygithubistatistik" /> </p>
 
 - > Şuanlık sadece kendi ve arkadaşlarımla yaptığım projeleri basit halleriyle githubımda paylaşıyorum. 
 
