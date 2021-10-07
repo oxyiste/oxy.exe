@@ -3,6 +3,7 @@
 <h1 align="center">Selam Guys, ben OxÝ.#0001</h1>
 <h3 align="center">daha çok burayı eğlence arayışı olarak gören ve sadece kendimi geliştirmek için kullanan biriyim.</h3>
 
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyiste" alt="adonciai" /> </p>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyiste-js&label=Profile%20views&color=0e75b6&style=flat" alt="oxygithubistatistik" /> </p>
 
 - > Şuanlık sadece kendi ve arkadaşlarımla yaptığım projeleri basit halleriyle githubımda paylaşıyorum. 
@@ -17,7 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="oxyistegithubistatistik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyiste&theme=radical" alt="oxyistegithubistatistik" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adonciai" alt="adonciai" /> </p>
-
-<a href="https://discord.com/users/719661452100894761" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/719661452100894761"></a>
