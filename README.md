@@ -10,7 +10,7 @@
 <h3 align="center">Contact</h3>
 
 - ☂️ Discord Hesabım . [Discord](https://discord.com/users/719661452100894761)
-- ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/mj7QGPpUkj)
+- ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/1899)
 <p align="left">
 <a href="https://discord.com/users/719661452100894761" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/oxyistekanka" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
