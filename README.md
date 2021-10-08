@@ -13,7 +13,7 @@
 - ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/mj7QGPpUkj)
 <p align="left">
 <a href="https://discord.com/users/719661452100894761" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-[[Discord Presence](https://lanyard-profile-readme.vercel.app/api/719661452100894761?hideDiscrim=true)](https://discord.com/users/719661452100894761)
+([![Discord Presence](https://lanyard-profile-readme.vercel.app/api/719661452100894761)](https://discord.com/users/719661452100894761))
 </p>
 
 
