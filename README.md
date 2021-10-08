@@ -11,7 +11,7 @@
 
 - ☂️ Discord Hesabım . [Discord](https://discord.com/users/760162970793410580)
 - ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/mj7QGPpUkj)
-
+<a href="https://discord.com/users/760162970793410580" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="oxyistegithubistatistik" /></p>
