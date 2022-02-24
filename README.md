@@ -1,6 +1,18 @@
 # oxy.exe
 ![Logo](https://cdn.discordapp.com/attachments/843580830697259018/848554351566913536/tumblr_phz2ph4Hvn1qkz08qo1_540.gif) 
-<h1 align="center">Selam Guys, ben OxÝ.#0001</h1>
+```js
+class oxyistekanka{
+  constructor(...settings) {
+    this.name = "Ömer"
+    this.age = "19"
+    this.height = "1.90"
+    this.weight = "85"
+    this.type = "human"
+    this.job = "developer"
+    this.sex = "male"
+  }
+}
+```
 <h3 align="center">daha çok burayı eğlence arayışı olarak gören ve sadece kendimi geliştirmek için kullanan biriyim.</h3>
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyiste-js&label=Profile%20views&color=0e75b6&style=flat" alt="oxygithubistatistik" /> </p>
