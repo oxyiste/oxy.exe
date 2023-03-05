@@ -1,6 +1,5 @@
 # oxy.exe
 ![Logo](https://cdn.discordapp.com/attachments/843580830697259018/848554351566913536/tumblr_phz2ph4Hvn1qkz08qo1_540.gif) 
-[![Discord Presence](https://lanyard.cnrad.dev/api/668929779042615296)](https://discord.com/users/668929779042615296)
 ```js
 class oxyistekanka{
   constructor(...settings) {
@@ -19,7 +18,7 @@ class oxyistekanka{
 - > Şuanlık sadece kendi ve arkadaşlarımla yaptığım projeleri basit halleriyle githubımda paylaşıyorum. 
 
 <h3 align="center">Contact</h3>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/668929779042615296)](https://discord.com/users/668929779042615296)
 - ☂️ Discord Hesabım . [Discord](https://discord.com/users/719661452100894761)
 - ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/1899)
 <p align="left">
