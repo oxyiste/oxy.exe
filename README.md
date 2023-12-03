@@ -4,7 +4,7 @@
 class oxyistekanka{
   constructor(...settings) {
     this.name = "Faruk"
-    this.age = "20"
+    this.age = "21"
     this.height = "1.90"
     this.weight = "85"
     this.type = "human"
