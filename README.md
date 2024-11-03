@@ -52,12 +52,12 @@ class oxyistekanka{
   &nbsp; 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&bg_color=0d1117&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&bg_color=0d1117&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oxyiste&count_private=true&bg_color=0d1117&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxyiste&layout=compact&bg_color=0d1117&theme=dark&hide_border=true" />
   </details>
 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117&showDisplayName=true">
+    <img src="https://lanyard-profile-readme.vercel.app/api/668929779042615296?bg=0d1117&showDisplayName=true">
   </details>
  </details>
