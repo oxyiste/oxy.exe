@@ -47,6 +47,17 @@ class oxyistekanka{
 <a href="https://instagram.com/oxyistekanka" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/6whxc48gzxmkycq8ytggpn0wx" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="oxyistegithubistatistik" /></p>
+<details>
+  <summary>&nbsp; <b>Stats</b></summary>
+  &nbsp; 
+  <details>
+    <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&bg_color=0d1117&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&bg_color=0d1117&theme=dark&hide_border=true" />
+  </details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyiste&theme=radical" alt="oxyistegithubistatistik" /></p>
+  <details>
+    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
+    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117&showDisplayName=true">
+  </details>
+ </details>
