@@ -41,8 +41,6 @@ class oxyistekanka{
 
 <h3 align="center">Contact</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/668929779042615296)](https://discord.com/users/668929779042615296)
-
 
 <p align="left">
 <a href="https://discord.com/users/668929779042615296" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
