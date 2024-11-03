@@ -43,10 +43,9 @@ class oxyistekanka{
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/668929779042615296)](https://discord.com/users/668929779042615296)
 
-- ☂️ Discord Hesabım . [Discord](https://discord.com/users/719661452100894761)
-- ☂️ Discord Adresim . [(OxY's House)](https://discord.gg/1899)
+
 <p align="left">
-<a href="https://discord.com/users/719661452100894761" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/668929779042615296" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/oxyistekanka" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/6whxc48gzxmkycq8ytggpn0wx" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
